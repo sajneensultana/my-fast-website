@@ -1,0 +1,171 @@
+@media(max-width: 768px){
+   
+    .baner-text h1{
+        font-size: 30px;
+    }
+    .baner-text h2{
+        font-size: 20px;
+    }
+	.baner-text p{
+		font-size:15px
+	}
+    .baner-button .btn-1{
+        padding: 12px 20px;
+    }
+    ..baner-button .btn-2{
+        padding: 12px 20px;
+    }
+    .servics{
+        width: 98%;
+        margin-bottom: 15px;
+        
+        padding-bottom: 10px;
+		
+    }
+    .service-text h4{
+        text-transform: capitalize;
+        font-size: 20px;
+    }
+    .protfolio-header-area{
+        padding: 60px 0;
+        
+    }
+    .protfolio-header-area h2{
+    
+        font-size: 30px;
+        font-weight: bold;
+    }
+     
+    .protfolio-header-area p{
+        width: 98%;
+        font-size: 15px;
+    }
+    .protflio-item{
+            width: 80%;
+           margin:4% 10%;
+            
+         
+		
+    }
+    .protflio-s{
+    
+        width: 80%;
+    }
+    
+    .contact-title{
+        width: 90%;
+        margin-bottom: 15px;
+      
+    }
+    .contat-from{
+        width: 90%;
+    }
+    .contat-from input{
+        width: 40%;
+        margin-right: 2%;
+        margin-bottom: 10px;
+        
+        
+    }
+    .head-item{
+        width:48%;
+        margin-bottom: 20px;
+    }
+    .head-img{
+        width: 60%;
+    }
+    .head-text p{
+        color: rgb(163, 160, 160);
+        font-size: 18px;
+    }
+    .head-icon-img{
+        width: 10px;
+        height: 10px;
+    }
+    .head-body .body-img{
+        width: 25%;
+        margin: 10px 0;
+       }
+       .head-body .body-img img{
+           height: 70%;
+       }
+       .head-body-text h6{ 
+        font-size: 16px;
+        
+    }
+    .head-body-text p{
+        font-size: 18px;
+    }
+    .head-text h6{
+        font-size: 16px;
+    }
+    .foter-left p{
+        font-size: 15px;
+    }
+    .foter-right li{
+        width: 10px;
+        height: 10px; 
+    }
+    
+    
+}
+@media(max-width: 576px){
+    .baner-text h1{
+        font-size: 20px;
+    }
+    .baner-text h2{
+        font-size: 15px;
+    }font-size
+	.baner-text p{
+		font-size:15px
+	}
+    .baner-button .btn-1{
+        padding: 10px 10px;
+    }
+    .baner-button .btn-2{
+        padding: 10px 10px;
+    }
+    .servics{
+        width: 90%;
+    }
+    .service-text h4{
+        text-transform: capitalize;
+        font-size: 18px;
+    }
+    .protfolio-header-area h2{
+    
+        font-size: 20px;
+        font-weight: bold;
+    }
+     
+    .protfolio-header-area p{
+        width: 98%;
+        font-size: 15px;
+    }
+    .protflio-item{
+        width: 80%;
+        margin:4% 10%;
+    }
+    .protflio-s{
+    
+        width: 98%;
+        transform: scale(1);
+    }
+    .contact-item{
+        flex-direction: column;
+    }
+    .contat-from{
+        flex-direction: column;
+    }
+    .fotter-head{
+        flex-direction: column;
+    }
+    .head-item{
+        width:90%;
+        margin: 0 5%;
+        
+    }
+        
+    
+
+}
